@@ -24,7 +24,7 @@ const CardProperti = () => {
 
   return (
     <>
-      <div className="w-full z-50  sticky  top-12 h-16 items-center flex px-4 bg-white  overflow-x-auto">
+      <div className="w-full z-45  sticky  top-12 h-16 items-center flex px-4 bg-white  overflow-x-auto">
         <button
           className="mr-4 px-4 py-2 rounded-md bg-gray-200"
           onClick={() => filterByCategory("")}
